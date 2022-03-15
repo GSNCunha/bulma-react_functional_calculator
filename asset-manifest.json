@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bulma-react_functional_calculator/static/css/main.cf9f6788.css",
+    "main.css": "/bulma-react_functional_calculator/static/css/main.ebcd952b.css",
     "main.js": "/bulma-react_functional_calculator/static/js/main.6ac72e52.js",
     "static/js/787.7cf55e1a.chunk.js": "/bulma-react_functional_calculator/static/js/787.7cf55e1a.chunk.js",
     "index.html": "/bulma-react_functional_calculator/index.html",
-    "main.cf9f6788.css.map": "/bulma-react_functional_calculator/static/css/main.cf9f6788.css.map",
+    "main.ebcd952b.css.map": "/bulma-react_functional_calculator/static/css/main.ebcd952b.css.map",
     "main.6ac72e52.js.map": "/bulma-react_functional_calculator/static/js/main.6ac72e52.js.map",
     "787.7cf55e1a.chunk.js.map": "/bulma-react_functional_calculator/static/js/787.7cf55e1a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf9f6788.css",
+    "static/css/main.ebcd952b.css",
     "static/js/main.6ac72e52.js"
   ]
 }
