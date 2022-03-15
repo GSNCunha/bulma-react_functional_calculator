@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bulma-react_functional_calculator/static/css/main.ff41eaad.css",
-    "main.js": "/bulma-react_functional_calculator/static/js/main.6ac72e52.js",
+    "main.css": "/bulma-react_functional_calculator/static/css/main.cf9f6788.css",
+    "main.js": "/bulma-react_functional_calculator/static/js/main.d6fbd068.js",
     "static/js/787.7cf55e1a.chunk.js": "/bulma-react_functional_calculator/static/js/787.7cf55e1a.chunk.js",
     "index.html": "/bulma-react_functional_calculator/index.html",
-    "main.ff41eaad.css.map": "/bulma-react_functional_calculator/static/css/main.ff41eaad.css.map",
-    "main.6ac72e52.js.map": "/bulma-react_functional_calculator/static/js/main.6ac72e52.js.map",
+    "main.cf9f6788.css.map": "/bulma-react_functional_calculator/static/css/main.cf9f6788.css.map",
+    "main.d6fbd068.js.map": "/bulma-react_functional_calculator/static/js/main.d6fbd068.js.map",
     "787.7cf55e1a.chunk.js.map": "/bulma-react_functional_calculator/static/js/787.7cf55e1a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff41eaad.css",
-    "static/js/main.6ac72e52.js"
+    "static/css/main.cf9f6788.css",
+    "static/js/main.d6fbd068.js"
   ]
 }
