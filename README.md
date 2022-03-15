@@ -1,1 +1,1 @@
-# Bulma-React_functional_calculator
+# bulma-react_functional_calculator
