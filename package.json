@@ -1,5 +1,6 @@
 {
-  "name": "calculatorhook",
+  "name": "bulma-react_functional_calculator",
+  "homepage": "https://gsncunha.github.io/bulma-react_functional_calculator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
